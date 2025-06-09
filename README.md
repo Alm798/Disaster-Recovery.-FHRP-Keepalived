@@ -10,13 +10,13 @@
 ---
  
 ### Решение 1
-[Cхемa](files/1/hsrp_advanced.pkt) в формате pkt.
+[Cхемa](https://github.com/Alm798/Disaster-Recovery.-FHRP-Keepalived/blob/main/hsrp_advanced.pkt) в формате pkt.
   
 Cкриншоты настройки маршрутизаторов:
   
-![Скриншот 1](img/1_1.png)
+![Скриншот 1](https://github.com/Alm798/Disaster-Recovery.-FHRP-Keepalived/blob/main/1_1.png)
   
-![Скриншот 2](img/1_2.png)
+![Скриншот 2](https://github.com/Alm798/Disaster-Recovery.-FHRP-Keepalived/blob/main/1_2.png)
 
 ---
  
@@ -30,18 +30,18 @@ Cкриншоты настройки маршрутизаторов:
 ---
 
 ### Решение 2
-[Файл bash скрипта](files/2/port-page-check.sh)
+[Файл bash скрипта]([files/2/port-page-check.sh](https://github.com/Alm798/Disaster-Recovery.-FHRP-Keepalived/blob/main/port-page-check.sh))
   
-[Файл keepalived.conf](files/2/keepalived.conf)
+[Файл keepalived.conf](https://github.com/Alm798/Disaster-Recovery.-FHRP-Keepalived/blob/main/keepalived.conf)
   
 Скриншоты с демонстрацией переезда плавающего ip на другой сервер в случае недоступности порта или файла index.html:
   
-![Скриншот 3](img/2_1.png)
+![Скриншот 3](https://github.com/Alm798/Disaster-Recovery.-FHRP-Keepalived/blob/main/1.png)
   
-![Скриншот 4](img/2_2.png)
+![Скриншот 4](https://github.com/Alm798/Disaster-Recovery.-FHRP-Keepalived/blob/main/2.png)
   
-![Скриншот 5](img/2_3.png)
+![Скриншот 5](https://github.com/Alm798/Disaster-Recovery.-FHRP-Keepalived/blob/main/3.png)
   
-![Скриншот 6](img/2_4.png)
+![Скриншот 6](https://github.com/Alm798/Disaster-Recovery.-FHRP-Keepalived/blob/main/4.png)
 
 ---
