@@ -30,7 +30,7 @@ Cкриншоты настройки маршрутизаторов:
 ---
 
 ### Решение 2
-[Файл bash скрипта]([https://github.com/Alm798/Disaster-Recovery.-FHRP-Keepalived/blob/main/port-page-check.sh)
+[Файл bash скрипта](https://github.com/Alm798/Disaster-Recovery.-FHRP-Keepalived/blob/main/port-page-check.sh)
   
 [Файл keepalived.conf](https://github.com/Alm798/Disaster-Recovery.-FHRP-Keepalived/blob/main/keepalived.conf)
   
